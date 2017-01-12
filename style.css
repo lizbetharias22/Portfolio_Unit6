@@ -1,14 +1,16 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("images/sponge_bob_sponge_out_of_water.jpg");
       background-size: cover;
       color: white;
+      background-position: center; 
     }
     .nav {
       color: white;
     }
     h1 {
       font-size: 70px;
+      color:Red;
     }
     img {
       margin: 40px 0px 0px 0px;
